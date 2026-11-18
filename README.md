@@ -71,7 +71,7 @@ Currently at AFRY, I work on automotive testing projects, configuring CANoe setu
 ## 🔧 Technical Skills
 
 **Automotive Testing & Validation:**
-- Vector CANoe, CANdb+, CAPL Scripting
+- Vector CANoe, CANdb+
 - Hardware-in-the-Loop (HIL) Development
 - CAN Protocol Testing & Analysis
 - ISO 14229 (UDS), OBD Protocols
